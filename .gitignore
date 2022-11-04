@@ -157,3 +157,6 @@ release
 meshtasticBackend*
 paho*
 bin/main
+
+# @d4rk4
+.settings
