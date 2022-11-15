@@ -21,7 +21,7 @@ class Configuration {
     /**
      * Device versions are set by the device firmware
      */
-    private val deviceVersion = "1"
+    private val deviceVersion = "2"
 
     /**
      * The root for all encrypted messages
